@@ -13,6 +13,11 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    name: 'Samsung',
+    price: 1000,
+    description: 'Has the latest AI camera. Face recognition and child control'
   }
 ];
 
